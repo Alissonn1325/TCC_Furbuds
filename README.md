@@ -16,9 +16,9 @@ Equipe:
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
--   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
--   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
--   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
+-   [Documentação (esse documento)](https://github.com/Alissonn1325/TCC_Furbuds)
+-   Backend: [Repositório](https://github.com/Alissonn1325/BackEnd-TCC) e [Publicação](https://pi-backend.herokuapp.com/)
+-   Frontend: [Repositório](https://github.com/Alissonn1325/FrontEnd-TCC) e [Publicação](https://pi-frontend.herokuapp.com/)
 
 **Como usar esse modelo para o Projeto Integrador**
 
