@@ -3,8 +3,6 @@
 
 *O Furbuds é um projeto inovador que visa facilitar a adoção de animais de estimação, promovendo o bem-estar animal e a criação de laços duradouros entre pessoas e seus novos companheiros. Através de um site intuitivo e completo, o Furbuds conecta futuros tutores a animais resgatados, oferecendo uma plataforma segura e eficiente para a adoção responsável.*
 
-**IMPORTANTE**: [**Cadastre seu projeto nesse link**](https://docs.google.com/spreadsheets/d/165xR63Yy9C75saQX-I_RsZV-hTrdiToei5Ave0JU1uQ/edit?usp=sharing).
-
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
@@ -14,22 +12,12 @@ Equipe:
 
 
 Links do projeto:
-(*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
--   [Documentação (esse documento)](https://github.com/Alissonn1325/TCC_Furbuds)
+-   Documentação (esse documento)(https://github.com/Alissonn1325/TCC_Furbuds)
+-   Figma: (https://www.figma.com/design/8ks5T7OOtxIljzJCOaxUJE/Furbuds?node-id=0-1&t=V2DRtIPZv2nqXO8O-1)
+-   MER (Modelagem do Banco de Dados): (https://lucid.app/lucidchart/3baf4ee6-f10b-42f2-af4c-ccdd6d49230c/edit?viewport_loc=-1406%2C-1041%2C2732%2C1359%2C0_0&invitationId=inv_95117c15-7b3d-4fbe-a510-1704b52940a5)
+-   Entidades do MER: (https://docs.google.com/document/d/1XdQL67LzKjy9ODhD73SUlt1QdU1-629sLLCAz-fTP_o/edit?usp=sharing)
 -   Backend: [Repositório](https://github.com/Alissonn1325/BackEnd-TCC) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](https://github.com/Alissonn1325/FrontEnd-TCC) e [Publicação](https://pi-frontend.herokuapp.com/)
-
-**Como usar esse modelo para o Projeto Integrador**
-
-*(Essa parte pode ser apagada depois.)*
-
-1. Faça um fork desse repositório para a sua conta do GitHub.
-2. Clone o repositório para o seu computador.
-3. Abra o arquivo README.md no seu editor de texto favorito (recomendamos o [Visual Studio Code](https://code.visualstudio.com/)).
-4. Tenha instaladas as seguintes extensões:
-   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-   - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-5. Edite o arquivo README.md com as informações do seu projeto.
 
 # 1. Desenvolvimento
 *(Escolha um dos modelos de sistemas para desenvolver o projeto. Apague as informações desnecessárias depois.)*
