@@ -1,8 +1,7 @@
-# Projeto Integrador - Modelo
+# FURBUDS
 *(Furbuds.)*
 
-Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
-*(O Furbuds é um projeto inovador que visa facilitar a adoção de animais de estimação, promovendo o bem-estar animal e a criação de laços duradouros entre pessoas e seus novos companheiros. Através de um site intuitivo e completo, o Furbuds conecta futuros tutores a animais resgatados, oferecendo uma plataforma segura e eficiente para a adoção responsável.)*
+*O Furbuds é um projeto inovador que visa facilitar a adoção de animais de estimação, promovendo o bem-estar animal e a criação de laços duradouros entre pessoas e seus novos companheiros. Através de um site intuitivo e completo, o Furbuds conecta futuros tutores a animais resgatados, oferecendo uma plataforma segura e eficiente para a adoção responsável.*
 
 **IMPORTANTE**: [**Cadastre seu projeto nesse link**](https://docs.google.com/spreadsheets/d/165xR63Yy9C75saQX-I_RsZV-hTrdiToei5Ave0JU1uQ/edit?usp=sharing).
 
