@@ -16,7 +16,7 @@ Links do projeto:
 -   Figma: [Figma](https://www.figma.com/design/8ks5T7OOtxIljzJCOaxUJE/Furbuds?node-id=0-1&t=V2DRtIPZv2nqXO8O-1)
 -   MER [Modelagem do Banco de Dados](https://lucid.app/lucidchart/3baf4ee6-f10b-42f2-af4c-ccdd6d49230c/edit?viewport_loc=-1406%2C-1041%2C2732%2C1359%2C0_0&invitationId=inv_95117c15-7b3d-4fbe-a510-1704b52940a5)
 -   Entidades do MER [Docs](https://docs.google.com/document/d/1XdQL67LzKjy9ODhD73SUlt1QdU1-629sLLCAz-fTP_o/edit?usp=sharing)
--   Backend: [Repositório](https://github.com/Alissonn1325/BackEnd-TCC) e [Publicação](https://backend-tcc-hb0p.onrender.comhttps://pi-backend.herokuapp.com/)
+-   Backend: [Repositório](https://github.com/Alissonn1325/BackEnd-TCC) e [Publicação](https://backend-tcc-hb0p.onrender.com/)
 -   Frontend: [Repositório](https://github.com/Alissonn1325/FrontEnd-TCC) e [Publicação](https://pi-frontend.herokuapp.com/)
 
 # 1.1 Modelos de Sistemas
